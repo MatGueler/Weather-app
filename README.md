@@ -28,7 +28,7 @@ Aplicativo que utiliza uma API externa [OpenWeather](https://openweathermap.org/
 
 - Local
 
-ESse projeto foi inicializado utilizando o [Create React App](https://github.com/facebook/create-react-app), então verifique se está utilizando a versão estável do [Node.js](https:/ /nodejs.org/en/download/) e [npm](https://www.npmjs.com/).
+ESse projeto foi inicializado utilizando o [Create React App](https://github.com/facebook/create-react-app), então verifique se está utilizando a versão estável do [Node.js](https://nodejs.org/en/download/) e [npm](https://www.npmjs.com/).
 
 Primeiro, clone o repositório em sua máquina pelo código abaixo:
 
