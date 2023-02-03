@@ -42,6 +42,7 @@ Em seguida, rode o comando abaio para instalar as dependencias do projeto:
 npm install
 ```
 
+Crie e preencha o arquivo **.env**, baseando-se no arquivo **.env.exemple** para usar a API [OPEN API WEATHER](OpenWeather).
 Após finalizar, basta rodar a aplicação a partir do seguinte comando:
 
 ```

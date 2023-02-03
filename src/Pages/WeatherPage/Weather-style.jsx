@@ -11,10 +11,13 @@ export const Main = styled.div`
 
 	border-radius: 10px;
 
+	box-shadow: 0px 2px 20px black;
+
 	padding: 20px;
 	box-sizing: border-box;
 
 	h1 {
+		font-size: 20px;
 		margin: 10px;
 
 		color: #ffffff;
@@ -31,6 +34,9 @@ export const Painel = styled.div`
 	align-items: center;
 
 	margin: 20px 0;
+	padding: 20px 0;
+
+	border-top: 2px solid #ffffff;
 
 	color: #ffffff;
 
@@ -45,6 +51,11 @@ export const Painel = styled.div`
 		p:nth-child(2) {
 			border-left: 3px solid #ffffff;
 		}
+	}
+
+	.description-group {
+		display: flex;
+		align-items: center;
 	}
 
 	span {
@@ -72,17 +83,15 @@ export const Form = styled.form`
 	align-items: center;
 
 	.input-group {
-		width: 60%;
+		width: 100%;
 
 		display: flex;
 		justify-content: center;
 
 		padding: 20px 0;
 
-		border-bottom: 2px solid #ffffff;
-
 		input {
-			width: 50%;
+			width: 70%;
 			height: 60px;
 
 			text-align: center;

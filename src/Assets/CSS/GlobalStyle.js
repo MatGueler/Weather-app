@@ -56,18 +56,6 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
-.container {
-	width: 100%;
-	height: 100vh;
-
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-
-	background-color: #7dd2ff;
-}
 `;
 
 export default GlobalStyle;
